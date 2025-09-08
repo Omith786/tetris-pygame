@@ -6,12 +6,12 @@ At its core, the game follows the familiar mechanics: tetrominoes fall from the 
 
 Some highlights of this project include:
 
-Classic mechanics with a modern polish – responsive controls and a clean, minimal UI.
+- Classic mechanics with a modern polish – responsive controls and a clean, minimal UI.
 
-Structured and readable codebase – designed so others can learn how Pygame handles game loops, events, and rendering.
+- Structured and readable codebase – designed so others can learn how Pygame handles game loops, events, and rendering.
 
-Easy to extend – the project is intentionally built to be a base for experimenting (e.g., custom block shapes, scoring rules, or AI opponents).
+- Easy to extend – the project is intentionally built to be a base for experimenting (e.g., custom block shapes, scoring rules, or AI opponents).
 
-A personal spin – rather than just “copying Tetris,” I treated this as a way to explore game design choices, balancing tradition with small tweaks for fun.
+- A personal spin – rather than just “copying Tetris,” I treated this as a way to explore game design choices, balancing tradition with small tweaks for fun.
 
 Ultimately, this project is both a playable game and a learning exercise. It captures the spirit of Tetris while serving as a stepping stone into game development with Python.
