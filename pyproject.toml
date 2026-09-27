@@ -1,0 +1,16 @@
+[project]
+name = "tetris-pygame"
+version = "1.0.0"
+description = "Tetris in pygame with SRS rotation, a 7-bag randomiser and the rules kept separate from rendering."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Omith Chowdhury" }]
+requires-python = ">=3.11"
+dependencies = ["pygame-ce>=2.5"]
+
+[project.scripts]
+tetris = "tetris.app:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
